@@ -72,13 +72,3 @@
 | **낭만닥터** | 성형외과 통합 예약·진료 플랫폼.<br>화상진료·결제·챗봇·익명게시판 포함.<br>6인 팀, 부트캠프 중간 프로젝트 | 처방전 / 리뷰게시판 / 결제 | Java · Spring Boot · Thymeleaf · MySQL · Jenkins · Docker · Naver Cloud | [repo](https://github.com/6BitCampers/Nangman_Doctor) |
 
 <br>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=dongwoobae&show_icons=true&hide_border=true&theme=default&include_all_commits=true&count_private=true)
-&nbsp;&nbsp;
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dongwoobae&layout=compact&hide_border=true&theme=default&langs_count=6)
-
-</div>
