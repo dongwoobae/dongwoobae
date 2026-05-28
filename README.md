@@ -3,7 +3,7 @@
 > 사람에게 실질적으로 도움이 되는 서비스를 만드는 개발자입니다.
 
 - 🔭 &nbsp;현재 **모두의 캠퍼스** 개발 중 — 고려대학교 배리어프리 웹 지도 (고려대 체인지메이커스 프로젝트 2026)
-- 🌱 &nbsp;Java / Spring Boot & Next.js 풀스택 개발자로 성장 중
+- 🌱 &nbsp;Java & JSP / Spring Boot & Next.js / NestJS & Next.js 등 풀스택 개발자로 성장 중
 - 💡 &nbsp;접근성, 공공서비스 IT, 지정학 × 기술에 관심 있습니다
 
 <br>
