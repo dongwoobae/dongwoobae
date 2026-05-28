@@ -62,13 +62,13 @@
 |---|---|---|---|
 | **모두의 캠퍼스** | 고려대학교 장애인·이동약자를 위한 배리어프리 웹 지도.<br>엘리베이터·경사로·장애인 화장실 등 접근성 시설 통합 제공.<br>고려대학교 체인지메이커스 프로젝트 (2026) | Next.js · Supabase · Cloudflare R2 · Leaflet · Vercel | [repo](https://github.com/dongwoobae/korea-univ-project) · [live](https://korea-univ-project.vercel.app) |
 | **안강 섬김** | 안강 섬김 노인복지센터 공식 홈페이지.<br>관리자 CMS, 상담 예약, 이메일·SMS 알림, SEO 최적화 포함. | Next.js · TypeScript · Supabase · Cloudflare R2 · Tailwind CSS v4 | [repo](https://github.com/dongwoobae/ankang-sumgim) · [live](https://sumgim-welfare.com) |
-| **한약안전사용 플랫폼** | 보건복지부 한의디지털융합사업 과제 수행 (전 직장, 1인 PM + 개발).<br>한약 안전 정보 제공 및 사용자 관리 시스템 구축. | Java · JSP · Servlet · Tomcat · MySQL | [live](https://hmsu.kr) |
+| **한약안전사용 플랫폼** | 보건복지부 한의디지털융합사업 과제 수행 (전 직장, 1인 PM + 개발).<br>기존 한의 정보 3만건 및 공공데이터 API, 한국한의약진흥원·국가생약정보 등 기관에서 제공받은 데이터를 라벨링하여 통합 제공.<br>사용자 관리 시스템 구축. | Java · JSP · Servlet · Tomcat · MySQL | [live](https://hmsu.kr) |
 
 ### 👥 팀
 
 | 프로젝트 | 설명 | 담당 역할 | 스택 | 링크 |
 |---|---|---|---|---|
-| **조선팔도** | 조선 8도 테마 온라인 멀티플레이 보드게임.<br>모노폴리+윷놀이 결합, 실시간 미니게임·채팅·랭킹 포함.<br>7인 팀, 부트캠프 최종 프로젝트 (2024.07 ~ 09) | 로그인 (OAuth2·JWT) / 백엔드 | Spring Boot · Spring Security · OAuth2 · JWT · WebSocket · STOMP · Next.js · Docker · GitHub Actions · Naver Cloud | [org](https://github.com/Joseonpaldo) · [live](https://joseonpaldo.site) |
+| **조선팔도** | 조선 8도 테마 온라인 멀티플레이 보드게임.<br>모노폴리+윷놀이 결합, 실시간 미니게임·채팅·랭킹 포함.<br>7인 팀, 부트캠프 최종 프로젝트 (2024.07 ~ 09) | 로그인 (OAuth2·JWT) / 백엔드 | Spring Boot · Spring Security · OAuth2 · JWT · WebSocket · STOMP · Next.js · Docker · GitHub Actions · Naver Cloud | [org](https://github.com/Joseonpaldo) |
 | **낭만닥터** | 성형외과 통합 예약·진료 플랫폼.<br>화상진료·결제·챗봇·익명게시판 포함.<br>6인 팀, 부트캠프 중간 프로젝트 | 처방전 / 리뷰게시판 / 결제 | Java · Spring Boot · Thymeleaf · MySQL · Jenkins · Docker · Naver Cloud | [repo](https://github.com/6BitCampers/Nangman_Doctor) |
 
 <br>
