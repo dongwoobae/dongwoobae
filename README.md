@@ -60,8 +60,8 @@
 
 | 프로젝트 | 설명 | 스택 | 링크 |
 |---|---|---|---|
-| **모두의 캠퍼스** | 고려대학교 장애인·이동약자를 위한 배리어프리 웹 지도.<br>엘리베이터·경사로·장애인 화장실 등 접근성 시설 통합 제공.<br>고려대학교 체인지메이커스 프로젝트 (2026) | Next.js · Supabase · Cloudflare R2 · Leaflet · Vercel | [repo](https://github.com/dongwoobae/korea-univ-project) · [live](https://korea-univ-project.vercel.app) |
-| **안강 섬김** | 안강 섬김 노인복지센터 공식 홈페이지.<br>관리자 CMS, 상담 예약, 이메일·SMS 알림, SEO 최적화 포함. | Next.js · TypeScript · Supabase · Cloudflare R2 · Tailwind CSS v4 | [repo](https://github.com/dongwoobae/ankang-sumgim) · [live](https://sumgim-welfare.com) |
+| **모두의 캠퍼스** | 고려대학교 장애인·이동약자를 위한 배리어프리 웹 지도.<br>엘리베이터·경사로·장애인 화장실 등 접근성 시설 통합 제공.<br>고려대학교 체인지메이커스 프로젝트 수주 · 개발 (2026) | Next.js · Supabase · Cloudflare R2 · Leaflet · Vercel | [repo](https://github.com/dongwoobae/korea-univ-project) · [live](https://korea-univ-project.vercel.app) |
+| **안강 섬김** | 안강 섬김 노인복지센터 공식 홈페이지.<br>관리자 CMS, 상담 예약, 이메일·SMS 알림, SEO 최적화 포함.<br>실 서비스 외주 개발 | Next.js · TypeScript · Supabase · Cloudflare R2 · Tailwind CSS v4 | [repo](https://github.com/dongwoobae/ankang-sumgim) · [live](https://sumgim-welfare.com) |
 | **한약안전사용 플랫폼** | 보건복지부 한의디지털융합사업 과제 수행 (전 직장, 1인 PM + 개발).<br>기존 한의 정보 3만건 및 공공데이터 API, 한국한의약진흥원·국가생약정보 등 기관에서 제공받은 데이터를 라벨링하여 통합 제공.<br>사용자 관리 시스템 구축. | Java · JSP · Servlet · Tomcat · MySQL | [live](https://hmsu.kr) |
 
 ### 👥 팀
