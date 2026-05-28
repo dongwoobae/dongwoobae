@@ -35,6 +35,8 @@
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![JSP](https://img.shields.io/badge/JSP-007396?style=flat-square&logo=openjdk&logoColor=white)
+![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=thymeleaf&logoColor=white)
 
 **Database**
 
@@ -66,8 +68,8 @@
 
 | 프로젝트 | 설명 | 담당 역할 | 스택 | 링크 |
 |---|---|---|---|---|
-| **조선팔도** | 조선 8도 테마 온라인 멀티플레이 보드게임.<br>모노폴리+윷놀이 결합, 실시간 미니게임·채팅·랭킹 포함.<br>7인 팀, 2개월 개발 (2024.07 ~ 09) | 로그인 (OAuth2·JWT) / 백엔드 | Spring Boot · Spring Security · OAuth2 · JWT · WebSocket · STOMP · Next.js · Docker · GitHub Actions · Naver Cloud | [org](https://github.com/Joseonpaldo) · [live](https://joseonpaldo.site) |
-| **낭만닥터** | 성형외과 통합 예약·진료 플랫폼.<br>화상진료·결제·챗봇·익명게시판 포함.<br>6인 팀, 부트캠프 최종 프로젝트 | 처방전 / 리뷰게시판 / 결제 | Java · Spring Boot · Thymeleaf · MySQL · Jenkins · Docker · Naver Cloud | [repo](https://github.com/6BitCampers/Nangman_Doctor) |
+| **조선팔도** | 조선 8도 테마 온라인 멀티플레이 보드게임.<br>모노폴리+윷놀이 결합, 실시간 미니게임·채팅·랭킹 포함.<br>7인 팀, 부트캠프 최종 프로젝트 (2024.07 ~ 09) | 로그인 (OAuth2·JWT) / 백엔드 | Spring Boot · Spring Security · OAuth2 · JWT · WebSocket · STOMP · Next.js · Docker · GitHub Actions · Naver Cloud | [org](https://github.com/Joseonpaldo) · [live](https://joseonpaldo.site) |
+| **낭만닥터** | 성형외과 통합 예약·진료 플랫폼.<br>화상진료·결제·챗봇·익명게시판 포함.<br>6인 팀, 부트캠프 중간 프로젝트 | 처방전 / 리뷰게시판 / 결제 | Java · Spring Boot · Thymeleaf · MySQL · Jenkins · Docker · Naver Cloud | [repo](https://github.com/6BitCampers/Nangman_Doctor) |
 
 <br>
 
