@@ -1,10 +1,10 @@
 # 안녕하세요, 배동우입니다 👋
 
-> 사람에게 실질적으로 도움이 되는 서비스를 만드는 개발자입니다.
+> 공공성·지역성·접근성을 가진 서비스를 기획부터 배포·운영까지 구현하는 풀스택 개발자입니다.
 
 - 🔭 &nbsp;현재 **모두의 캠퍼스** 개발 중 — 고려대학교 배리어프리 웹 지도 (고려대 체인지메이커스 프로젝트 2026)
 - 🌱 &nbsp;Java & JSP / Spring Boot & Next.js / NestJS & Next.js 등 풀스택 개발자로 성장 중
-- 💡 &nbsp;접근성, 공공서비스 IT, 지정학 × 기술에 관심 있습니다
+- 💡 &nbsp;접근성, 공공서비스 IT, 지역·기관 홈페이지, 운영자 CMS, 실사용자 중심 웹서비스에 관심 있습니다
 
 <br>
 
@@ -38,11 +38,15 @@
 ![JSP](https://img.shields.io/badge/JSP-007396?style=flat-square&logo=openjdk&logoColor=white)
 ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=thymeleaf&logoColor=white)
 
-**데이터베이스**
+**데이터베이스 · 인증 · 스토리지**
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Neon](https://img.shields.io/badge/Neon-00E599?style=flat-square&logo=postgresql&logoColor=white)
+![Drizzle](https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=flat-square&logoColor=black)
+![Better Auth](https://img.shields.io/badge/Better_Auth-000000?style=flat-square&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare_R2-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 
 **인프라 & DevOps**
 
@@ -50,7 +54,6 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Naver Cloud](https://img.shields.io/badge/Naver_Cloud-03C75A?style=flat-square&logo=naver&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare_R2-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 
 <br>
 
@@ -60,9 +63,10 @@
 
 | 프로젝트 | 설명 | 스택 | 링크 |
 |---|---|---|---|
-| **모두의 캠퍼스** | 고려대학교 장애인·이동약자를 위한 배리어프리 웹 지도.<br>엘리베이터·경사로·장애인 화장실 등 접근성 시설 통합 제공.<br>고려대학교 체인지메이커스 프로젝트 수주 · 개발 (2026) | Next.js · Supabase · Cloudflare R2 · Leaflet · Vercel | [repo](https://github.com/dongwoobae/korea-univ-project) · [live](https://korea-univ-project.vercel.app) |
-| **안강 섬김** | 안강 섬김 노인복지센터 공식 홈페이지.<br>관리자 CMS, 상담 예약, 이메일·SMS 알림, SEO 최적화 포함.<br>실 서비스 외주 개발 | Next.js · TypeScript · Supabase · Cloudflare R2 · Tailwind CSS v4 | [repo](https://github.com/dongwoobae/ankang-sumgim) · [live](https://sumgim-welfare.com) |
-| **한약안전사용 플랫폼** | 보건복지부 한의디지털융합사업 과제 수행 (전 직장, 1인 PM + 개발).<br>기존 한의 정보 3만건 및 공공데이터 API, 한국한의약진흥원·국가생약정보 등 기관에서 제공받은 데이터를 라벨링하여 통합 제공.<br>사용자 관리 시스템 구축. | Java · JSP · Servlet · Tomcat · MySQL | [live](https://hmsu.kr) |
+| **모두의 캠퍼스** | 고려대학교 장애인·이동약자를 위한 배리어프리 웹 지도.<br>엘리베이터·경사로·장애인 화장실·점자블록 등 접근성 시설을 지도 기반으로 통합 제공.<br>고려대학교 체인지메이커스 프로젝트 수주 · 개발 (2026) | Next.js · Supabase · Cloudflare R2 · Leaflet · Vercel | [repo](https://github.com/dongwoobae/korea-univ-project) · [live](https://korea-univ-project.vercel.app) |
+| **안강 섬김 노인복지센터** | 안강 섬김 노인복지센터 공식 홈페이지 및 운영자 CMS.<br>공지·사진 게시판·상담문의·구인 안내를 관리할 수 있는 실서비스 홈페이지.<br>사진 업로드 시 얼굴 자동 감지 후 블러 처리하고, 수동 블러 편집까지 지원해 개인정보 보호를 강화. | Next.js · TypeScript · Supabase · Cloudflare R2 · Sharp · face-api.js · Tailwind CSS v4 | [repo](https://github.com/dongwoobae/ankang-sumgim) · [live](https://sumgim-welfare.com) |
+| **영천중앙교회 홈페이지** | 영천중앙교회 공식 홈페이지 및 교회 콘텐츠 운영 CMS.<br>설교·주보·소식·갤러리 공개 페이지와 관리자 화면을 구축.<br>주보 HWP 파일을 파싱해 웹에서 보기 좋은 구조화된 주보 화면으로 렌더링하고, YouTube 설교 영상 연동을 자동화. | Next.js · TypeScript · Neon · Drizzle · Better Auth · Cloudflare R2 · HWP Parser | [repo](https://github.com/dongwoobae/ycc-website) |
+| **한약안전사용 플랫폼** | 보건복지부 한의디지털융합사업 과제 수행 (전 직장, 1인 PM + 개발).<br>기존 한의 정보 3만건 및 공공데이터 API, 한국한의약진흥원·국가생약정보 등 기관 제공 데이터를 라벨링해 통합 제공.<br>사용자 관리 시스템과 정보 검색 플랫폼을 구축. | Java · JSP · Servlet · Tomcat · MySQL | [live](https://hmsu.kr) |
 
 ### 👥 팀
 
