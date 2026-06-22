@@ -14,7 +14,7 @@
 |---|---|
 | 🏫 | 고려대학교 지구환경과학과 졸업 |
 | 💻 | 네이버클라우드 클라우드 기반 웹 데브옵스 프로젝트 개발자 과정 수료 `2024.03 ~ 2024.09` |
-| 💼 | 수료 후 개발자로 취직, 현재 Spring Boot · NestJS · React 실무 진행 중 |
+| 💼 | 수료 후 개발자로 취직, 현재 Spring Boot · NestJS · React 실무 진행 중 `2024.11 ~ ` |
 
 <br>
 
@@ -66,7 +66,7 @@
 | **모두의 캠퍼스** | 고려대학교 장애인·이동약자를 위한 배리어프리 웹 지도.<br>엘리베이터·경사로·장애인 화장실·점자블록 등 접근성 시설을 지도 기반으로 통합 제공.<br>고려대학교 체인지메이커스 프로젝트 수주 · 개발 (2026) | Next.js · Supabase · Cloudflare R2 · Leaflet · Vercel | [repo](https://github.com/dongwoobae/korea-univ-project) · [live](https://korea-univ-project.vercel.app) |
 | **안강 섬김 노인복지센터** | 안강 섬김 노인복지센터 공식 홈페이지 및 운영자 CMS.<br>공지·사진 게시판·상담문의·구인 안내를 관리할 수 있는 실서비스 홈페이지.<br>사진 업로드 시 얼굴 자동 감지 후 블러 처리하고, 수동 블러 편집까지 지원해 개인정보 보호를 강화. | Next.js · TypeScript · Supabase · Cloudflare R2 · Sharp · face-api.js · Tailwind CSS v4 | [repo](https://github.com/dongwoobae/ankang-sumgim) · [live](https://sumgim-welfare.com) |
 | **영천중앙교회 홈페이지** | 영천중앙교회 공식 홈페이지 및 교회 콘텐츠 운영 CMS.<br>설교·주보·소식·갤러리 공개 페이지와 관리자 화면을 구축.<br>주보 HWP 파일을 파싱해 웹에서 보기 좋은 구조화된 주보 화면으로 렌더링하고, YouTube 설교 영상 연동을 자동화. | Next.js · TypeScript · Neon · Drizzle · Better Auth · Cloudflare R2 · HWP Parser | [repo](https://github.com/dongwoobae/ycc-website) |
-| **한약안전사용 플랫폼** | 보건복지부 한의디지털융합사업 과제 수행 (전 직장, 1인 PM + 개발).<br>기존 한의 정보 3만건 및 공공데이터 API, 한국한의약진흥원·국가생약정보 등 기관 제공 데이터를 라벨링해 통합 제공.<br>사용자 관리 시스템과 정보 검색 플랫폼을 구축. | Java · JSP · Servlet · Tomcat · MySQL | [live](https://hmsu.kr) |
+| **한약안전사용 플랫폼** | 보건복지부 한의디지털융합사업 과제 수행 (1인 PM + 개발).<br>기존 한의 정보 3만건 및 공공데이터 API, 한국한의약진흥원·국가생약정보 등 기관 제공 데이터를 라벨링해 통합 제공.<br>사용자 관리 시스템과 정보 검색 플랫폼을 구축. | Java · JSP · Servlet · Tomcat · MySQL | [live](https://hmsu.kr) |
 
 ### 👥 팀
 
@@ -76,3 +76,8 @@
 | **낭만닥터** | 성형외과 통합 예약·진료 플랫폼.<br>화상진료·결제·챗봇·익명게시판 포함.<br>6인 팀, 부트캠프 중간 프로젝트 | 처방전 / 리뷰게시판 / 결제 | Java · Spring Boot · Thymeleaf · MySQL · Jenkins · Docker · Naver Cloud | [repo](https://github.com/6BitCampers/Nangman_Doctor) |
 
 <br>
+
+
+## 📫 Contact
+
+- Email: [dw5817@naver.com](mailto:dw5817@naver.com)
